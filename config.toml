@@ -33,7 +33,7 @@ disqusShortname = ""
 [menu]
 
   [[menu.main]]
-  name = "Products"
+  name = "Produits"
   URL = "products/"
   weight = 1
 
@@ -54,7 +54,7 @@ disqusShortname = ""
 
   ############# footer menu #############
   [[menu.footer]]
-  name = "Products"
+  name = "Produits"
   URL = "products/"
   weight = 1
 
@@ -82,7 +82,8 @@ disqusShortname = ""
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-home = "Home"
+logo_width = "160px"
+home = "Accueil"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
